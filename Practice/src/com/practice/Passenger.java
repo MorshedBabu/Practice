@@ -1,4 +1,4 @@
-package com;
+package com.practice;
 //Examples- Constructor
 
 public class  Passenger {
